@@ -5,7 +5,9 @@ This project is a simple simulator of classic children's toy wooden trains that 
 
 ## Eye Candy
 
+![Control Panel - Track Setup](https://github.com/tkaap/maya_woodtrains/tree/images/ControlPanel_TrackSetup.png)
 
+![Control Panel - Train Control](https://github.com/tkaap/maya_woodtrains/tree/images/ControlPanel_TrainControl.png)
 
 ## Getting Started
 ### Quickstart:
