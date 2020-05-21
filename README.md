@@ -5,9 +5,7 @@ This project is a simple simulator of classic children's toy wooden trains that 
 
 ## Eye Candy
 
-![Control Panel - Track Setup](docs/images/ControlPanel_TrackSetup.png)
 
-![Control Panel - Train Control](docs/images/ControlPanel_TrainControl.png)
 
 ## Getting Started
 ### Quickstart:
@@ -57,20 +55,7 @@ The general flow of operation for the simulation is:
 1. Reset the train onto some part of the track
 1. Start the simulator
 
-**Track Layout Tools**
-- Adding Track Pieces
-- Automatic Layout
-  - Adjusting the current track flow direction
-  - Adjusting the current Peg
-- Adjusting Track position
-  - "Nudging" a Track position
-  - Using Maya's manipulators
-
-## Troubleshooting
-##### My track isn't linking!
-##### My train isn't moving
-##### My train keeps breaking into pieces
-##### My train keeps reversing
+**Detailed usage docs are over in the [Documentation](docs/docs_head.md).
 
 
 ## Caveats
